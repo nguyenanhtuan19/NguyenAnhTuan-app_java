@@ -1,0 +1,6 @@
+
+public class NguyenAnhTuan_App {
+public static void main(String[] args) {
+	System.out.println("Nguyen Anh Tuan hoc Java");
+}
+}
